@@ -1,0 +1,15 @@
+img {
+  float: left;
+}
+.sidebar {
+  width: 70%;
+  float: right;
+  background-color: yellow;
+  font-weight: bold;
+}
+p {
+  font-size: xx-large;
+  font-style: oblique;
+  text-align: center;
+
+}
