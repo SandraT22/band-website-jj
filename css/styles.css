@@ -1,11 +1,16 @@
 img {
-  float: left;
+  float: Left;
+  padding: 4px;
+
 }
 .sidebar {
   width: 70%;
   float: right;
   background-color: yellow;
   font-weight: bold;
+  border: 7px;
+  padding: 80px;
+  margin: 1px;
 }
 p {
   font-size: xx-large;
