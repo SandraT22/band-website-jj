@@ -1,7 +1,8 @@
 img {
-  float: Left;
-  padding: 4px;
-
+  margin: auto;
+  width: 50%;
+  height: auto;
+  display: block;
 }
 .sidebar {
   width: 70%;
